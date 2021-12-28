@@ -6,7 +6,7 @@ Lightweight command line interface for sending email using SMTP. Default configu
 # Usage
 
 ## 1. Using Gmail
-- Clone repo or download zip and run from driver script from terminal `<_location of cloned files_>/mailsend.py`
+- Clone repo or download zip and run driver script from terminal `<_location of cloned files_>/mailsend.py`
 
 ## 2. Using another email client
 - Clone repo or download zip
