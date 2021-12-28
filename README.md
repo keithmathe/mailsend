@@ -23,4 +23,5 @@ Lightweight command line interface for sending email using SMTP. Default configu
  # Licenses
  MIT Licence (see [LICENSE.txt](https://github.com/keithmathe/mailsend/blob/master/LICENSE.txt))
  
+ # Footnotes
  [^1]: For help with Gmail Application Specific Passwords click [here](https://support.google.com/mail/answer/185833?hl=en)
