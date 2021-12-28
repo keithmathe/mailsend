@@ -1,5 +1,5 @@
-#! /Users/keithmathe/opt/anaconda3/envs/gmailsend/bin/python
-# Simple Gmail client for sending mail from the command line
+# SMTP client for sending mail from the command line
+# mailsend v1.0.0.0 by Keith Sithabo Mathe
 
 import Mail
 import Email
